@@ -1,0 +1,3 @@
+.main-nav { list-style-type: none; }
+
+.main-nav li { display: inline-block; width: 100px; background-color: green;}
